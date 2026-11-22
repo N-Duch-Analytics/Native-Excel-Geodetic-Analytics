@@ -31,8 +31,8 @@ I am the sole author and copyright holder of these tools, having developed them 
 More detailed descriptions of the tools along with step-by-step user guides are available in the attached PDF manuals:
 
 * 🇬🇧 **[Download-Excels-ENGLISH.zip](./Download-Excels-ENGLISH.zip)** *(Complete English package: 3 `.xlsx` tools, 2 `.pdf` manuals, and sample `.txt` survey data)*
-* 📖 **[Elevator Shaft As-Built Survey — Manual (PDF)](./ENGLISH--Elevator-shaft-as-built-survey--Processing-Tool.pdf)**
-* 📖 **[Floor Area As-Built Survey — Manual (PDF)](./ENGLISH--Floor-area-as-built-survey--Network-Adjustment-Tool.pdf)**
+* 📖 **[Elevator Shaft As-Built Survey — Manual (PDF)](./ENGLISH--Elevator-shaft-as-built-survey--Processing-Tool.pdf?raw=true)**
+* 📖 **[Floor Area As-Built Survey — Manual (PDF)](./ENGLISH--Floor-area-as-built-survey--Network-Adjustment-Tool.pdf?raw=true)**
 
 `#elevator-shaft-survey` `#lift-shaft-inspection` `#floor-area-survey` `#as-built-survey` `#geodesy` `#land-surveying` `#engineering-surveying` `#civil-engineering` `#architecture` `#construction` `#total-station` `#optical-plummet` `#laser-plummet` `#distomat` `#laser-distance-meter` `#automation` `#MS-Excel` `#zero-VBA` `#least-squares-adjustment` `#Helmert-transformation` `#CAD` `#instant-reporting` `#smart-reporting`
 
@@ -69,7 +69,7 @@ Jestem jedynym autorem oraz właścicielem praw majątkowych tych narzędzi, jak
 Dokładniejszy opis udostępnionych narzędzi wraz z instrukcją użytkowania znajdują się w załączonych plikach PDF:
 
 * 🇵🇱 **[Pobierz-Excele-POLSKIE.zip](./Pobierz-Excele-POLSKIE.zip)** *(Kompletny polski pakiet: 3 arkusze `.xlsx`, 2 instrukcje `.pdf` oraz przykładowe pikiety `.txt`)*
-* 📖 **[Inwentaryzacja szybu windowego — Instrukcja (PDF)](./POLSKI--Opracowanie-inwentaryzacji-szybu-windowego.pdf)**
-* 📖 **[Wyrównanie pomiaru powierzchni użytkowej lokalu — Instrukcja (PDF)](./POLSKI--Wyrownanie-pomiaru-powierzchni-uzytkowej-lokalu.pdf)**
+* 📖 **[Inwentaryzacja szybu windowego — Instrukcja (PDF)](./POLSKI--Opracowanie-inwentaryzacji-szybu-windowego.pdf?raw=true)**
+* 📖 **[Wyrównanie pomiaru powierzchni użytkowej lokalu — Instrukcja (PDF)](./POLSKI--Wyrownanie-pomiaru-powierzchni-uzytkowej-lokalu.pdf?raw=true)**
 
 `#narzędzie-do-opracowywania-inwentaryzacji-szybu-windowego` `#narzędzie-do-opracowywania-inwentaryzacji-powierzchni-użytkowej` `#szyb-windowy` `#szacht-windowy` `#powierzchnia-użytkowa` `#powierzchnia-lokalu` `#inwentaryzacja` `#inwentaryzacja-powykonawcza` `#geodezja` `#miernictwo` `#architektura` `#budownictwo` `#inżynieria` `#tachimetr` `#pionownik-optyczny` `#pionownik-laserowy` `#distomat` `#automatyzacja` `#MS-Excel` `#bez-VBA` `#opracowywanie-pomiarów` `#opracowywanie-inwentaryzacji` `#wyrównanie-ścisłe` `#metoda-najmniejszych-kwadratów` `#transformacja-Helmerta` `#CAD` `#błyskawiczne-raportowanie` `#inteligentne-raportowanie`
