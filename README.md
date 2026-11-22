@@ -16,7 +16,7 @@ I am the sole author and copyright holder of these tools, having developed them 
 * **For engineers** who want to turn a raw `.txt` coordinate file from a standard shaft survey into a **ready-to-submit technical report in 0.5 seconds**—complete with deviation tables, visual charts, and a full, professional technical description.
 * **For engineers** who want to instantly customize floor labels and switch between fitting methods on the fly: **isometric Helmert transformation**, **minimum deviation condition**, or **alignment to a selected reference floor**.
 
-### 2. Floor Area As-Built Survey — Network Adjustment Tool (`x1` & `x3`)
+### 2. Floor Area As-Built Survey — Network Adjustment Tool
 **Who is this tool for?**
 * **For engineers** who want to eliminate manual, arbitrary (*"tarot-card guesswork"*) polyline closing in CAD from laser distance meter (distomat) measurements, gaining all the benefits of **rigorous Least Squares (`WLS`/`OLS`) network adjustment**.
 * **For engineers** who want to finish a full day of processing floor plans **significantly less exhausted**, by eliminating dozens of geometric micro-decisions along the way: *"how should I close this..."*, *"did I close it accurately enough..."*, *"would the area match better if I nudged that corner..."*
@@ -54,7 +54,7 @@ Jestem jedynym autorem oraz właścicielem praw majątkowych tych narzędzi, jak
 * **Dla inżynierów** chcących plik tekstowy (`.txt`) zawierający surowe dane z klasycznego pomiaru szybu windowego zamieniać **w pół sekundy w gotowy raport**, zawierający tabelę i wykresy odchyłek oraz pełen, profesjonalny opis techniczny.
 * **Dla inżynierów** chcących w tak przygotowanym raporcie uwzględniać od ręki specyficzne oznaczenia pomierzonych poziomów oraz wybraną metodę wpasowania: **izometryczną Helmerta**, **z warunkiem najmniejszej odchyłki** lub **dopasowując do wybranego poziomu**.
 
-### 2. Excel do ścisłego wyrównywania pomiaru powierzchni użytkowej (`x1` oraz `x3`)
+### 2. Excel do ścisłego wyrównywania pomiaru powierzchni użytkowej
 **Dla kogo jest to narzędzie?**
 * **Dla inżynierów** chcących wyeliminować ręczne, uznaniowe (*„tarociarskie”*) domykanie polilinii w CAD z klasycznego pomiaru powierzchni użytkowej distomatem, na rzecz wszystkich korzyści wynikających z zastosowania do tego celu **ścisłej estymacji metodą najmniejszych kwadratów**.
 * **Dla inżynierów** chcących czuć wyraźnie mniejsze zmęczenie po całym dniu opracowywania lokali, wynikające z wyeliminowania dziesiątek mikrodecyzji geometrycznych w czasie pracy: *„jak domknąć...”*, *„czy na pewno dobrze to domknąłem...”*, *„ciekawe, czy jakbym inaczej domknął, to powierzchnia bardziej by się zgadzała...”* itd.
