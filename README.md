@@ -1,7 +1,10 @@
 # Native-Excel-Geodetic-Analytics
 Advanced 100% native MS Excel computational &amp; reporting tools (0% VBA) for engineering and geodetic (surveying).
 
-🇬🇧 Leaving behind a career chapter called *"geodesy"* in favor of new challenges, I would like to put into the hands of a wider community the two most advanced computational tools I built in MS Excel within this engineering discipline. I will no longer be using them myself, and it would be a shame to let them gather dust on a hard drive unused if they can still make someone else's work easier. 
+<img width="1493" height="900" alt="obraz" src="https://github.com/user-attachments/assets/bd11c69e-6c6f-4fc4-a587-f6dfc47bf047" />
+
+🇬🇧
+Leaving behind a career chapter called *"geodesy"* in favor of new challenges, I would like to put into the hands of a wider community the two most advanced computational tools I built in MS Excel within this engineering discipline. I will no longer be using them myself, and it would be a shame to let them gather dust on a hard drive unused if they can still make someone else's work easier. 
 
 I am the sole author and copyright holder of these tools, having developed them entirely on my own many years ago, strictly in my personal time. I am releasing them free of charge under the **MIT License**, along with the specific engineering terms included inside the Excel workbooks themselves. Depending on the project, both tools have completely or largely replaced traditional production methods wherever they were deployed—proven across hundreds of successful elevator shaft inspections and literally tens of thousands of adjusted floor plans over the past decade.
 
@@ -38,8 +41,8 @@ More detailed descriptions of the tools along with step-by-step user guides are 
 ---
 
 # Analityka Geodezyjna w Natywnym MS Excel (0% VBA)
-
-🇵🇱 Zostawiając za sobą etap kariery zawodowej o nazwie *"geodezja"* na rzecz nowych wyzwań, chciałbym oddać w ręce szerokiego grona dwa najbardziej zaawansowane narzędzia obliczeniowe, jakie stworzyłem w MS Excel w ramach tej dyscypliny inżynieryjnej. Ja już z nich więcej nie skorzystam, a szkoda by było, żeby kurzyły się na dysku nieużywane, jeżeli komuś mogą się jeszcze przydać.
+🇵🇱
+Zostawiając za sobą etap kariery zawodowej o nazwie *"geodezja"* na rzecz nowych wyzwań, chciałbym oddać w ręce szerokiego grona dwa najbardziej zaawansowane narzędzia obliczeniowe, jakie stworzyłem w MS Excel w ramach tej dyscypliny inżynieryjnej. Ja już z nich więcej nie skorzystam, a szkoda by było, żeby kurzyły się na dysku nieużywane, jeżeli komuś mogą się jeszcze przydać.
 
 Jestem jedynym autorem oraz właścicielem praw majątkowych tych narzędzi, jako że stworzyłem je w pełni samodzielnie wiele lat temu, wyłącznie w swoim czasie prywatnym. Udostępniam je bezpłatnie w ramach warunków **licencji MIT**, wraz z uszczegółowieniami zawartymi w samych plikach Excel. Oba narzędzia – w zależności od przypadku – całkowicie lub w większości wyparły inne metody produkcji w miejscach, gdzie były wdrażane, doczekując się w przebiegu ostatniej dekady grubych setek owocnych użyć (dotyczy szybów windowych) oraz ciężkich do oszacowania, już w zasadzie dziesiątek tysięcy owocnie opracowanych lokali (dotyczy drugiego Excela).
 
