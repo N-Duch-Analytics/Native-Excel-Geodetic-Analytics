@@ -31,7 +31,7 @@ I am the sole author and copyright holder of these tools, having developed them 
 ### ⬇️ Downloads & User Manuals
 More detailed descriptions of the tools along with step-by-step user guides are available in the attached PDF manuals:
 
-* 🇬🇧 **[Download-Excels-ENGLISH.zip](./Download-Excels-ENGLISH.zip)** *(Complete English package: 3 `.xlsx` tools, 2 `.pdf` manuals, and sample `.txt` survey data)*
+* 🇬🇧 **[Download-Excels-ENGLISH.zip](../../releases/download/v1.0/Download-Excels-ENGLISH.zip)** *(Complete English package: 3 `.xlsx` tools, 2 `.pdf` manuals, and sample `.txt` survey data)*
 * 📖 **[Elevator Shaft As-Built Survey — Manual (PDF)](./ENGLISH--Elevator-shaft-as-built-survey--Processing-Tool.pdf?raw=true)**
 * 📖 **[Floor Area As-Built Survey — Manual (PDF)](./ENGLISH--Floor-area-as-built-survey--Network-Adjustment-Tool.pdf?raw=true)**
 
@@ -69,7 +69,7 @@ Jestem jedynym autorem oraz właścicielem praw majątkowych tych narzędzi, jak
 ### ⬇️ Pliki do pobrania i instrukcje obsługi
 Dokładniejszy opis udostępnionych narzędzi wraz z instrukcją użytkowania znajdują się w załączonych plikach PDF:
 
-* 🇵🇱 **[Pobierz-Excele-POLSKIE.zip](./Pobierz-Excele-POLSKIE.zip)** *(Kompletny polski pakiet: 3 arkusze `.xlsx`, 2 instrukcje `.pdf` oraz przykładowe pikiety `.txt`)*
+* 🇵🇱 **[Pobierz-Excele-POLSKIE.zip](../../releases/download/v1.0/Pobierz-Excele-POLSKIE.zip)** *(Kompletny polski pakiet: 3 arkusze `.xlsx`, 2 instrukcje `.pdf` oraz przykładowe pikiety `.txt`)*
 * 📖 **[Inwentaryzacja szybu windowego — Instrukcja (PDF)](./POLSKI--Opracowanie-inwentaryzacji-szybu-windowego.pdf?raw=true)**
 * 📖 **[Wyrównanie pomiaru powierzchni użytkowej lokalu — Instrukcja (PDF)](./POLSKI--Wyrownanie-pomiaru-powierzchni-uzytkowej-lokalu.pdf?raw=true)**
 
