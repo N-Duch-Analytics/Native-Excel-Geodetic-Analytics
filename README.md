@@ -1,5 +1,5 @@
 # Native-Excel-Geodetic-Analytics
-Advanced 100% native MS Excel computational &amp; reporting tools (0% VBA) for surveyors, geodetic & civil engineers, architects.
+Free, advanced 100% native MS Excel computational &amp; reporting tools (0% VBA) for surveyors, geodetic & civil engineers, architects.
 
 <img width="1493" height="900" alt="obraz" src="https://github.com/user-attachments/assets/bd11c69e-6c6f-4fc4-a587-f6dfc47bf047" />
 
@@ -48,7 +48,7 @@ More detailed descriptions of the tools along with step-by-step user guides are 
 
 # Analityka Geodezyjna w Natywnym MS Excel
 
-🇵🇱 Zaawansowane narzędzia obliczeniowe i raportujące w natywnym MS Excel (0% VBA) dla geodetów, inżynierów budownictwa i architektów:  
+🇵🇱 Darmowe, zaawansowane narzędzia obliczeniowe i raportujące w 100% natywnym MS Excel (0% VBA) dla geodetów, inżynierów budownictwa i architektów:  
 * **Opracowanie inwentaryzacji szybu windowego.xlsx** *(Automatyczne sortowanie, transformacja Helmerta i natychmiastowy raport)*  
 * **Wyrównanie pomiaru powierzchni użytkowej lokalu.xlsx** *(Ścisłe wyrównanie metodą najmn. kwadratów pomiarów z ręcznego dalmierza)*
 
