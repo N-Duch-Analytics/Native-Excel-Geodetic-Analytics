@@ -29,7 +29,7 @@ I am the sole author and copyright holder of these tools, having developed them 
 
 ### 2. Floor Area As-Built Survey — Network Adjustment Tool
 **Who is this tool for?**
-* **For engineers** who want to eliminate manual, arbitrary (*"tarot-card guesswork"*) polyline closing in CAD from laser distance meter (distomat) measurements, gaining all the benefits of **rigorous Least Squares (`WLS`/`OLS`) network adjustment**.
+* **For engineers** who want to eliminate manual, arbitrary (*"tarot-card guesswork"*) polyline closing in CAD from laser distance meter (distomat) measurements, gaining all the benefits of **rigorous least squares (WLS) network adjustment**.
 * **For engineers** who want to finish a full day of processing floor plans **significantly less exhausted**, by eliminating dozens of geometric micro-decisions along the way: *"how should I close this..."*, *"did I close it accurately enough..."*, *"would the area match better if I nudged that corner..."*
 * **For engineers** who want to drastically improve the final accuracy of every unit by effortlessly incorporating every extra check measurement taken on-site (diagonals, orthogonal projections). Forget time-consuming CAD gymnastics trying to draw and reconcile conflicting diagonals by hand.
 * **For engineers** who—when dealing with repetitive floor layouts across multiple stories—want to run an **ultra-fast assembly line**: *"copy the Excel file of a solved unit → clear old distomat distances from the floor below → type in new ones → paste ready `XY` coordinates into CAD... copy–clear–type–paste, copy–clear–type–paste..."*
