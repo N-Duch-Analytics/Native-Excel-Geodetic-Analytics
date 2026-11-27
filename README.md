@@ -1,5 +1,5 @@
 # Native-Excel-Geodetic-Analytics
-Free, advanced 100% native MS Excel computational &amp; reporting tools (0% VBA) for surveyors, geodetic & civil engineers, architects.
+Free, advanced native MS Excel computational &amp; reporting tools (0% VBA) for surveyors, geodetic & civil engineers, architects.
 
 <img width="1493" height="900" alt="obraz" src="https://github.com/user-attachments/assets/bd11c69e-6c6f-4fc4-a587-f6dfc47bf047" />
 
@@ -14,7 +14,7 @@ Leaving behind a career chapter called *"geodesy"* in favor of new challenges, I
 
 I am the sole author and copyright holder of these tools, having developed them entirely on my own many years ago, strictly in my personal time. I am releasing them free of charge under the **MIT License**. Depending on the project, both tools have completely or largely replaced traditional production methods wherever they were deployed—proven across hundreds of successful elevator shaft inspections and literally tens of thousands of adjusted floor plans over the past decade.
 
-*(100% native MS Excel formulas, **0% VBA macros** — full compatibility from Excel 2007 to Microsoft 365, zero IT security blocks).*
+*100% native MS Excel formulas, **0% VBA macros** — full compatibility from Excel 2007 to Microsoft 365, zero IT security blocks.*
 
 ---
 
@@ -24,6 +24,8 @@ I am the sole author and copyright holder of these tools, having developed them 
 * **For engineers** who want a tool that **automatically sorts raw survey points by floor and corner in half a second**.
 * **For engineers** who want to turn a raw `.txt` coordinate file from a standard shaft survey into a **ready-to-submit technical report in 0.5 seconds**—complete with deviation tables, visual charts, and a full, professional technical description.
 * **For engineers** who want to instantly customize floor labels and switch between fitting methods on the fly: **isometric Helmert transformation**, **minimum deviation condition**, or **alignment to a selected reference floor**.
+
+*The output report worksheets are unlocked so that users can freely translate them into any language on their own, according to their specific regional needs.*
 
 ### 2. Floor Area As-Built Survey — Network Adjustment Tool
 **Who is this tool for?**
@@ -48,7 +50,7 @@ More detailed descriptions of the tools along with step-by-step user guides are 
 
 # Analityka Geodezyjna w Natywnym MS Excel
 
-🇵🇱 Darmowe, zaawansowane narzędzia obliczeniowe i raportujące w 100% natywnym MS Excel (0% VBA) dla geodetów, inżynierów budownictwa i architektów:  
+🇵🇱 Darmowe, zaawansowane narzędzia obliczeniowe i raportujące w natywnym MS Excel dla geodetów, inżynierów budownictwa i architektów:  
 * **Opracowanie inwentaryzacji szybu windowego.xlsx** *(Automatyczne sortowanie, transformacja Helmerta i natychmiastowy raport)*  
 * **Wyrównanie pomiaru powierzchni użytkowej lokalu.xlsx** *(Ścisłe wyrównanie metodą najmn. kwadratów pomiarów z ręcznego dalmierza)*
 
@@ -56,7 +58,7 @@ Zostawiając za sobą etap kariery zawodowej o nazwie *"geodezja"* na rzecz nowy
 
 Jestem jedynym autorem oraz właścicielem praw majątkowych tych narzędzi, jako że stworzyłem je w pełni samodzielnie wiele lat temu, wyłącznie w swoim czasie prywatnym. Udostępniam je bezpłatnie w ramach warunków **licencji MIT**. Oba narzędzia – w zależności od przypadku – całkowicie lub w większości wyparły inne metody produkcji w miejscach, gdzie były wdrażane, doczekując się w przebiegu ostatniej dekady grubych setek owocnych użyć (dotyczy szybów windowych) oraz ciężkich do oszacowania, już w zasadzie dziesiątek tysięcy, owocnie opracowanych lokali (dotyczy drugiego Excela).
 
-*(100% natywnych formuł MS Excel, **0% makr VBA** — pełna zgodność od Excela 2007 po Microsoft 365, zero blokad ze strony działów IT).*
+*100% natywnych formuł MS Excel, **0% makr VBA** — pełna zgodność od Excela 2007 po Microsoft 365, zero blokad ze strony działów IT.*
 
 ---
 
